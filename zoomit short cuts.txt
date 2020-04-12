@@ -1,6 +1,0 @@
-Zoomit:
-
-Zoom : Ctrl + 1
-Live zoom: ctrl + 4
-type: zoom + t
-highlight: ctrl + 2 and hold ctrl button and hold the left click on mouse --> rectangle
