@@ -1,0 +1,4 @@
+for sum of best of two we can use the formula sum(B1:D1)-min(B1:D1)
+floor --> for lowest value of decimal point
+ceiling --> for highest value of decima point
+round
